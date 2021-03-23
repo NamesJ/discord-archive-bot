@@ -1,0 +1,15 @@
+{
+  "name": "discordipfs",
+  "version": "1.0.0",
+  "description": "A discord bot for automatically archiving resources to IPFS",
+  "main": "index.js",
+  "author": "Jacob Sanders",
+  "license": "GNU AFFERO GPLV3",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ipfs": "^0.54.4",
+    "ipfs-core": "^0.5.4"
+  }
+}
